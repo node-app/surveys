@@ -1,0 +1,287 @@
+Id,Prof/Choice,SW/Mobile,SW/Desktop,SW/Web,SW/Other,Tech/iOS,Tech/OSX,Tech/FrontendJS,Tech/NodeJS,Tech/HTML,Nonative/Dev,Nonative/Opinion,Xplat/Dev,Xplat/Opinion,Lang/Pref,Exp/JS,Exp/Node,Exp/iOS,App/Never,App/ObjC,App/Titanium,App/Cordova,App/Frontend,App/Best
+18,,0,0,1,,0,0,0,1,0,1,1,1,2,Javascript,4,3,2,0,0,1,0,0,PhoneGap / Apache Cordova
+19,Frontend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,4,3,0,0,0,1,0,PhoneGap / Apache Cordova
+20,Frontend Engineer,0,1,0,,0,0,1,0,1,0,2,0,2,Javascript,3,1,1,1,0,0,0,0,
+21,,1,1,1,,1,1,1,1,1,1,1,1,0,Objective-C,4,4,5,0,1,0,0,0,Objective-C Foundation
+23,iOS Developer,1,0,0,,1,0,0,0,1,0,1,0,0,Objective-C,2,1,4,0,1,0,0,0,Objective-C Foundation
+24,Backend Engineer,1,0,1,,1,0,1,1,1,1,2,1,1,Javascript,4,5,5,0,1,1,0,0,Appcelerator Titanium
+25,Frontend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,4,2,0,0,0,1,1,PhoneGap / Apache Cordova
+26,Frontend Engineer,0,0,1,,0,0,1,0,1,1,2,1,1,Javascript,3,2,2,0,0,0,1,1,PhoneGap / Apache Cordova
+27,Frontend Engineer,0,0,1,,0,0,1,1,0,1,1,1,2,Javascript,4,4,2,0,1,0,1,0,PhoneGap / Apache Cordova
+28,iOS Developer,0,0,1,,1,0,1,1,1,1,0,1,0,Objective-C,4,5,5,0,1,0,0,1,Objective-C Foundation
+29,Backend Engineer,1,0,1,,1,0,1,1,1,1,1,1,1,Javascript,5,5,4,0,0,0,1,0,PhoneGap / Apache Cordova
+31,Frontend Engineer,0,0,1,,0,0,1,1,1,0,1,0,1,Javascript,4,3,1,1,0,0,0,0,
+32,Backend Engineer,0,0,1,,0,0,0,1,1,0,2,0,2,Javascript,5,5,1,1,0,0,0,0,
+34,Backend Engineer,0,0,1,,0,0,1,1,1,0,2,1,1,Javascript,4,3,1,1,0,0,0,0,
+36,,0,0,1,Command Line,0,0,1,1,1,0,2,0,2,Javascript,4,2,1,1,0,0,0,0,
+37,Backend Engineer,1,0,1,,1,1,1,1,1,1,0,1,0,Javascript,4,4,4,0,1,1,1,0,Objective-C Foundation
+38,Frontend Engineer,1,0,1,,1,1,1,1,1,0,2,0,2,Objective-C,4,3,4,0,1,0,0,0,Objective-C Foundation
+39,iOS Developer,1,0,0,,1,1,1,1,1,1,1,1,1,,5,5,3,0,1,0,0,0,Objective-C Foundation
+40,iOS Developer,1,0,0,,1,0,0,0,0,0,2,0,2,Objective-C,3,3,4,0,1,0,0,0,Objective-C Foundation
+41,Frontend Engineer,0,0,1,,0,0,1,1,0,1,1,1,1,Javascript,3,3,1,0,0,0,1,0,PhoneGap / Apache Cordova
+42,iOS Developer,1,0,1,,1,0,1,1,1,1,0,0,0,Javascript,5,4,2,1,0,0,0,0,
+43,Backend Engineer,0,0,1,,0,0,1,1,1,1,0,1,0,Javascript,5,5,1,0,0,0,0,1,
+44,Frontend Engineer,1,0,1,,1,0,1,1,0,1,0,1,0,Javascript,5,5,2,0,1,1,0,0,Objective-C Foundation
+45,,1,0,0,embedded system,1,0,1,1,1,1,1,1,1,Objective-C,4,5,5,0,1,0,1,0,Objective-C Foundation
+46,Frontend Engineer,0,0,1,,0,0,1,0,1,1,0,1,0,Javascript,4,3,1,0,0,0,1,1,PhoneGap / Apache Cordova
+47,,0,0,1,,0,0,0,0,0,0,1,0,2,Javascript,2,1,1,1,0,0,0,0,
+48,Frontend Engineer,0,0,1,,0,0,0,1,1,1,1,1,1,Javascript,3,2,1,1,0,0,0,0,Sencha Touch / jQuery Mobile
+49,Backend Engineer,1,1,0,,0,0,1,1,1,1,2,0,2,Javascript,4,4,1,1,0,0,0,0,PhoneGap / Apache Cordova
+51,iOS Developer,1,0,0,,1,0,0,0,0,0,0,0,0,Objective-C,3,4,5,0,1,0,0,0,Objective-C Foundation
+52,Frontend Engineer,0,0,1,,0,0,1,0,1,1,2,1,2,Javascript,4,3,3,1,0,1,1,0,PhoneGap / Apache Cordova
+53,Frontend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,4,4,3,0,0,0,1,1,PhoneGap / Apache Cordova
+54,,1,1,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,4,0,0,0,1,0,PhoneGap / Apache Cordova
+55,Frontend Engineer,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,4,2,0,0,0,1,0,PhoneGap / Apache Cordova
+56,Backend Engineer,0,0,1,,0,0,1,1,1,1,1,0,2,Javascript,5,4,2,0,0,1,1,1,PhoneGap / Apache Cordova
+57,Frontend Engineer,1,1,1,,0,0,1,0,1,0,1,0,2,Javascript,2,2,1,1,0,0,0,0,
+58,Frontend Engineer,1,0,1,,0,0,1,1,1,0,0,1,1,Javascript,5,4,2,0,0,0,1,1,PhoneGap / Apache Cordova
+59,Frontend Engineer,0,0,1,,0,0,1,1,1,0,1,1,0,Javascript,4,2,1,1,0,0,0,0,
+60,,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,4,3,1,0,0,0,1,0,PhoneGap / Apache Cordova
+61,iOS Developer,1,0,0,,1,0,1,0,1,0,2,0,2,Javascript,5,3,4,0,1,0,0,1,Objective-C Foundation
+63,Frontend Engineer,0,0,1,,0,0,1,1,1,1,0,0,1,Javascript,4,4,1,0,0,0,0,1,
+64,,1,1,1,,0,0,1,1,1,1,2,1,2,Javascript,3,4,,1,0,0,0,0,PhoneGap / Apache Cordova
+65,,0,0,1,,0,0,1,0,1,1,0,1,1,Javascript,4,,4,0,0,1,1,1,Appcelerator Titanium
+66,Frontend Engineer,1,0,1,,0,1,1,1,1,1,1,1,1,Javascript,5,4,2,0,0,1,1,0,PhoneGap / Apache Cordova
+67,Backend Engineer,1,0,1,,1,0,1,1,1,1,0,0,2,Javascript,4,4,2,0,1,0,0,1,Sencha Touch / jQuery Mobile
+68,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,5,4,,1,0,0,0,0,Sencha Touch / jQuery Mobile
+69,,1,0,1,,1,0,1,1,1,1,2,1,2,Javascript,5,5,5,0,0,0,1,1,PhoneGap / Apache Cordova
+70,Frontend Engineer,1,0,1,,1,0,1,1,0,1,0,1,0,Javascript,5,5,2,0,1,1,0,0,Appcelerator Titanium
+71,Frontend Engineer,0,0,1,,0,0,1,0,0,0,2,0,2,Javascript,1,1,1,1,0,0,0,0,PhoneGap / Apache Cordova
+72,iOS Developer,1,0,1,,0,0,1,0,1,1,1,1,1,Javascript,3,2,3,0,1,0,1,0,Objective-C Foundation
+73,iOS Developer,1,0,1,,1,0,1,0,0,1,1,1,2,Javascript,4,5,4,0,0,1,1,1,Appcelerator Titanium
+74,Frontend Engineer,0,0,1,,0,0,1,0,1,0,2,0,2,Javascript,4,3,3,1,0,0,0,0,PhoneGap / Apache Cordova
+75,Backend Engineer,0,0,1,,0,0,0,0,0,0,2,0,2,Javascript,5,5,2,0,1,0,0,0,Objective-C Foundation
+76,Frontend Engineer,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,3,2,0,0,0,1,1,PhoneGap / Apache Cordova
+77,,0,0,1,,0,0,1,0,1,0,2,0,2,Javascript,2,1,1,1,0,0,0,0,
+78,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,5,2,0,0,0,1,0,
+79,Backend Engineer,0,0,1,,0,0,1,0,0,0,0,1,2,Javascript,4,5,4,1,0,0,0,0,
+80,,0,0,1,,0,0,1,0,1,0,1,0,2,Javascript,5,1,1,1,0,0,0,0,
+81,,0,1,1,,0,0,1,1,1,0,2,0,2,Javascript,4,4,1,1,0,0,0,0,
+82,Backend Engineer,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+84,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,5,4,1,1,0,0,0,0,
+85,Frontend Engineer,1,1,1,,0,0,1,1,1,0,2,1,1,Javascript,3,4,1,1,0,0,0,0,PhoneGap / Apache Cordova
+86,Frontend Engineer,0,1,1,,1,1,1,1,1,0,0,0,2,Javascript,5,5,3,1,0,0,0,0,
+87,iOS Developer,1,1,0,,0,0,0,1,0,1,2,1,2,Javascript,3,3,4,0,0,0,0,0,
+88,iOS Developer,1,0,0,,1,1,1,1,1,0,0,1,2,Javascript,4,5,5,0,1,0,0,0,Objective-C Foundation
+89,Frontend Engineer,1,0,1,,1,0,1,1,1,0,2,0,2,Javascript,5,4,1,0,1,0,0,0,Objective-C Foundation
+90,Frontend Engineer,0,1,1,,0,0,1,1,1,0,2,0,2,Javascript,5,3,1,1,0,0,0,0,Sencha Touch / jQuery Mobile
+91,Backend Engineer,0,1,1,,0,0,1,1,1,1,2,1,2,Objective-C,4,4,4,0,1,0,0,0,Objective-C Foundation
+92,Backend Engineer,1,0,1,,0,0,1,1,0,1,1,1,0,Javascript,4,5,2,0,0,0,1,1,
+94,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,4,1,0,0,0,1,0,
+97,Backend Engineer,0,0,1,,0,0,1,1,1,1,1,0,1,Javascript,5,2,1,0,0,0,1,1,
+98,,0,0,1,,0,0,1,1,1,0,2,0,1,Javascript,5,5,2,0,0,0,0,0,
+101,iOS Developer,1,0,1,,1,0,1,0,1,1,0,0,0,Objective-C,4,2,5,0,1,0,0,1,Objective-C Foundation
+102,Frontend Engineer,1,0,1,,0,0,1,0,1,0,2,0,2,Javascript,3,3,3,1,0,0,0,0,
+103,Backend Engineer,0,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,5,3,0,0,0,1,1,PhoneGap / Apache Cordova
+105,Backend Engineer,0,0,1,,0,0,0,1,1,0,2,0,1,Javascript,3,3,1,1,0,0,0,0,
+106,,0,1,0,,1,1,1,1,1,1,0,0,0,Javascript,4,5,4,0,1,0,0,1,Objective-C Foundation
+107,Backend Engineer,0,0,1,,1,0,1,1,1,1,0,0,0,Javascript,4,4,1,0,1,0,0,0,
+108,iOS Developer,1,0,1,,1,0,1,1,0,0,0,0,0,Objective-C,,5,5,0,1,0,0,0,Objective-C Foundation
+110,iOS Developer,1,0,1,,1,0,0,1,1,0,2,0,2,,3,3,3,0,1,0,0,0,Objective-C Foundation
+111,Backend Engineer,0,0,1,Server apps,0,0,1,1,1,1,1,1,1,Javascript,4,3,3,0,0,0,1,0,
+112,Frontend Engineer,1,1,1,,1,0,1,1,1,1,2,1,2,Javascript,4,4,4,0,0,0,1,1,PhoneGap / Apache Cordova
+113,Frontend Engineer,0,1,1,,0,0,1,1,0,1,1,1,2,Javascript,4,4,3,0,0,0,1,1,PhoneGap / Apache Cordova
+114,,0,0,1,,1,0,1,1,1,1,0,1,0,Javascript,4,3,3,0,0,1,1,1,PhoneGap / Apache Cordova
+117,Backend Engineer,1,1,0,,0,1,1,1,0,0,2,0,2,Javascript,3,1,1,1,0,0,0,0,PhoneGap / Apache Cordova
+118,,0,0,1,,0,0,0,1,1,0,1,0,2,Javascript,4,5,3,1,0,0,0,0,
+120,iOS Developer,1,0,0,,1,0,1,0,0,1,1,1,2,Objective-C,5,,5,0,1,0,0,0,Objective-C Foundation
+121,Frontend Engineer,0,0,1,,0,0,1,1,1,0,0,0,1,Javascript,4,4,3,0,1,0,0,0,
+123,,1,0,1,,0,0,1,1,1,0,1,0,1,Javascript,4,4,3,1,0,0,0,0,PhoneGap / Apache Cordova
+124,Frontend Engineer,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,1,0,0,0,1,0,PhoneGap / Apache Cordova
+125,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,3,,0,0,1,0,0,
+126,,1,0,0,,1,0,0,1,1,0,1,0,0,Objective-C,2,1,5,0,1,0,0,0,Objective-C Foundation
+127,Backend Engineer,0,0,1,,1,0,0,1,1,0,0,0,0,Javascript,3,4,4,0,1,0,0,0,Objective-C Foundation
+128,Backend Engineer,0,0,1,,0,0,1,1,0,1,2,1,1,Javascript,5,4,1,1,0,0,0,0,
+129,Backend Engineer,1,0,1,,0,0,0,1,0,1,1,1,1,Javascript,4,5,4,0,0,0,0,0,
+131,,0,0,1,,0,0,1,1,1,0,1,0,1,,4,4,,1,0,0,0,0,
+132,,1,0,1,,0,0,1,1,0,0,2,0,2,Javascript,3,4,2,1,0,0,0,0,Sencha Touch / jQuery Mobile
+134,,0,0,1,,0,0,0,1,1,0,2,0,2,Javascript,3,2,1,0,1,0,0,0,
+135,Frontend Engineer,0,0,1,,0,0,1,1,1,0,1,0,1,Javascript,5,5,3,0,1,1,0,0,Appcelerator Titanium
+137,Frontend Engineer,0,1,1,,0,0,1,1,1,1,0,1,1,Javascript,5,5,3,0,0,1,1,1,Appcelerator Titanium
+138,Backend Engineer,0,0,1,,1,1,1,1,1,1,1,1,1,Javascript,3,4,4,0,1,0,1,1,PhoneGap / Apache Cordova
+139,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,4,1,1,0,0,0,0,PhoneGap / Apache Cordova
+141,Backend Engineer,0,0,1,,1,0,1,1,1,0,0,0,0,Objective-C,4,4,4,0,1,0,0,0,Objective-C Foundation
+142,iOS Developer,1,0,1,,1,0,1,1,1,0,2,0,2,Javascript,4,3,5,0,1,0,0,0,
+143,Frontend Engineer,0,0,1,,0,0,0,1,1,1,0,0,2,Javascript,3,3,1,1,0,0,1,0,Sencha Touch / jQuery Mobile
+145,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,5,5,1,0,0,0,1,0,PhoneGap / Apache Cordova
+146,Frontend Engineer,1,0,0,,0,0,1,1,1,1,1,1,1,Javascript,5,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+147,Frontend Engineer,1,0,1,,1,0,1,1,1,1,1,1,1,Javascript,5,4,5,0,1,0,0,1,Objective-C Foundation
+149,Backend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,3,1,1,0,0,0,0,
+150,Backend Engineer,1,0,1,,0,0,0,1,0,0,2,0,1,Javascript,3,3,2,0,1,0,0,0,
+151,,0,0,1,,0,0,1,1,1,1,0,1,1,Javascript,2,1,2,0,0,0,0,0,
+152,Frontend Engineer,1,0,1,,0,0,1,1,1,0,2,0,2,Javascript,5,4,2,0,1,0,0,0,Objective-C Foundation
+153,,0,0,1,,0,0,1,0,1,0,2,0,2,Javascript,3,3,3,1,0,0,0,0,Sencha Touch / jQuery Mobile
+154,Backend Engineer,1,0,1,,0,0,1,0,1,1,1,1,1,Javascript,5,1,,1,0,0,0,0,PhoneGap / Apache Cordova
+155,Frontend Engineer,1,0,1,,1,1,1,1,1,0,2,0,0,Javascript,5,3,2,0,1,0,0,0,Sencha Touch / jQuery Mobile
+156,Frontend Engineer,1,1,1,,0,0,1,1,1,1,1,1,0,Javascript,5,5,4,0,0,0,0,0,PhoneGap / Apache Cordova
+157,OS X Developer,1,1,1,,1,1,1,1,1,0,0,0,2,Objective-C,4,5,5,0,1,0,0,0,Objective-C Foundation
+158,Backend Engineer,0,0,1,,0,0,1,1,1,1,2,1,1,Javascript,5,5,3,0,0,1,1,1,Appcelerator Titanium
+159,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,5,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+160,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,3,1,0,0,0,1,0,PhoneGap / Apache Cordova
+161,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,0,2,Javascript,4,3,1,0,0,0,0,0,
+162,Backend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,4,1,1,0,0,0,0,PhoneGap / Apache Cordova
+163,,0,0,1,,0,0,1,0,1,0,2,0,2,Javascript,,,,0,0,0,0,0,
+164,Backend Engineer,0,1,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,2,1,0,0,0,0,
+165,Backend Engineer,1,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,5,2,0,1,0,1,1,Sencha Touch / jQuery Mobile
+166,Backend Engineer,0,0,1,,0,0,0,1,0,0,1,0,1,Javascript,4,4,4,1,0,0,0,0,
+169,Backend Engineer,1,1,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+172,Frontend Engineer,0,0,1,,0,0,1,0,0,0,2,0,1,Javascript,5,5,5,0,0,0,1,0,PhoneGap / Apache Cordova
+174,iOS Developer,1,1,0,,1,0,1,0,1,1,1,1,2,Javascript,2,1,4,0,1,0,0,0,PhoneGap / Apache Cordova
+175,Frontend Engineer,1,1,0,,0,0,1,1,1,1,1,1,1,Javascript,4,4,2,0,0,0,1,0,PhoneGap / Apache Cordova
+176,Frontend Engineer,1,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,3,1,1,0,0,0,0,
+177,Backend Engineer,0,0,1,,0,0,1,1,1,0,1,0,2,Javascript,5,4,2,1,0,0,0,0,
+179,Frontend Engineer,1,0,1,,0,0,1,1,1,0,2,1,1,Javascript,5,4,1,0,0,0,1,1,PhoneGap / Apache Cordova
+180,Frontend Engineer,1,0,1,,1,0,1,1,1,1,1,1,1,Javascript,5,5,3,0,0,0,1,1,PhoneGap / Apache Cordova
+181,Frontend Engineer,0,0,1,,0,0,1,0,0,0,2,0,2,Javascript,4,5,4,0,1,0,0,0,Objective-C Foundation
+183,,1,0,1,,1,0,1,1,1,1,1,0,1,Javascript,4,4,3,0,1,0,1,0,Objective-C Foundation
+184,Frontend Engineer,0,0,1,,1,0,1,1,1,1,2,0,0,Javascript,5,3,2,0,1,0,1,0,PhoneGap / Apache Cordova
+185,Frontend Engineer,0,0,1,Chrome extension,0,0,1,0,1,0,2,0,2,Javascript,5,1,1,1,0,0,0,0,
+186,Backend Engineer,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,4,4,3,0,0,0,1,0,PhoneGap / Apache Cordova
+187,Backend Engineer,0,0,1,,1,0,1,1,1,1,0,1,1,Javascript,5,4,2,0,1,0,0,0,
+188,iOS Developer,1,0,1,,1,0,1,1,1,0,2,0,1,Javascript,4,4,2,0,1,0,0,0,Objective-C Foundation
+189,Backend Engineer,0,0,1,,1,0,1,1,1,0,1,0,1,Javascript,5,5,3,0,1,0,0,0,Objective-C Foundation
+190,Frontend Engineer,0,0,1,,0,0,1,1,1,0,0,0,0,Javascript,4,3,1,1,0,0,0,0,
+193,Backend Engineer,1,0,1,,0,0,0,1,0,1,1,1,0,Javascript,4,5,2,0,0,1,1,0,Appcelerator Titanium
+194,Frontend Engineer,0,0,1,,1,0,1,1,1,1,1,1,1,Javascript,5,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+195,Backend Engineer,1,1,1,,1,0,1,1,1,1,1,0,2,Javascript,5,5,2,0,0,0,1,0,PhoneGap / Apache Cordova
+196,Backend Engineer,0,0,1,,0,0,1,1,1,1,2,1,,Javascript,5,5,1,1,0,0,0,0,
+197,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,4,1,0,0,0,1,0,PhoneGap / Apache Cordova
+198,Backend Engineer,1,0,1,,0,0,1,0,1,0,2,0,2,Javascript,2,1,1,1,0,0,0,0,PhoneGap / Apache Cordova
+199,Backend Engineer,1,0,1,,1,0,0,1,0,1,0,1,0,Javascript,3,3,3,0,1,0,0,0,
+200,,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,5,3,0,0,1,0,0,Appcelerator Titanium
+201,Frontend Engineer,1,0,1,,0,0,1,1,1,1,0,1,0,Javascript,4,4,3,0,0,0,1,1,Sencha Touch / jQuery Mobile
+202,,0,0,1,,0,1,1,1,1,1,1,1,1,Objective-C,5,5,2,0,1,0,1,0,
+203,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,5,1,0,0,0,1,1,PhoneGap / Apache Cordova
+204,,0,0,0,,1,0,1,1,1,0,1,0,1,Javascript,4,3,3,0,1,0,0,0,Objective-C Foundation
+205,Backend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,5,3,0,0,0,1,1,PhoneGap / Apache Cordova
+206,,1,0,1,,1,0,1,1,1,1,0,1,0,Objective-C,1,4,5,0,1,0,1,1,Objective-C Foundation
+207,Frontend Engineer,1,0,1,,1,0,1,0,1,0,2,0,2,Javascript,4,3,3,0,1,0,0,0,Objective-C Foundation
+208,Backend Engineer,1,1,1,,1,0,1,1,1,1,1,1,2,Javascript,5,4,1,0,1,0,1,1,PhoneGap / Apache Cordova
+210,Frontend Engineer,0,0,1,,0,0,0,1,0,1,0,1,0,Javascript,3,4,3,0,0,0,1,0,PhoneGap / Apache Cordova
+211,Frontend Engineer,1,1,1,,0,0,1,1,1,0,2,0,2,Javascript,5,5,2,1,0,0,1,0,PhoneGap / Apache Cordova
+212,Backend Engineer,0,0,1,,0,1,1,1,1,0,0,0,0,Javascript,4,4,,1,0,0,0,0,
+213,Backend Engineer,0,0,1,,0,0,0,1,0,0,1,0,2,Javascript,5,5,2,0,1,0,0,0,Objective-C Foundation
+214,Backend Engineer,1,0,1,,0,0,1,1,1,1,0,1,1,Javascript,4,3,2,0,0,0,0,1,Objective-C Foundation
+215,Frontend Engineer,1,1,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+216,Frontend Engineer,1,1,1,,1,0,1,0,1,1,0,1,1,Javascript,4,3,2,0,0,0,1,1,Sencha Touch / jQuery Mobile
+217,,0,0,0,embedded,0,0,1,1,1,0,2,0,2,Javascript,4,5,1,1,0,0,0,0,
+218,iOS Developer,1,0,1,,1,0,1,1,1,1,1,1,1,Objective-C,3,4,4,0,1,0,1,0,PhoneGap / Apache Cordova
+219,Frontend Engineer,0,0,1,,0,0,1,0,1,0,2,0,1,Javascript,5,,,1,0,0,0,0,
+221,Frontend Engineer,0,0,1,,1,0,1,1,1,1,1,1,1,Javascript,5,5,4,0,1,0,1,1,PhoneGap / Apache Cordova
+222,,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,4,3,,0,0,0,1,0,PhoneGap / Apache Cordova
+223,Backend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,4,4,3,0,0,0,0,1,
+225,iOS Developer,1,1,0,,1,0,1,1,1,0,0,0,0,Objective-C,2,3,3,0,1,0,0,0,Objective-C Foundation
+226,Backend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,3,3,3,0,0,1,1,0,PhoneGap / Apache Cordova
+227,Backend Engineer,0,1,1,,0,1,0,1,0,1,0,1,0,Javascript,5,5,3,0,0,1,1,0,PhoneGap / Apache Cordova
+228,,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,4,4,4,0,0,0,1,1,PhoneGap / Apache Cordova
+229,Backend Engineer,1,0,1,,1,0,1,1,0,0,0,1,0,Objective-C,4,4,5,0,1,0,0,0,Objective-C Foundation
+230,Backend Engineer,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,3,2,1,1,0,0,1,1,PhoneGap / Apache Cordova
+231,Backend Engineer,0,0,1,,0,0,1,0,1,0,2,0,2,Javascript,4,4,2,0,0,0,1,0,
+232,Frontend Engineer,0,0,1,,0,1,1,1,1,0,0,0,1,Javascript,4,4,3,1,0,0,0,0,
+233,iOS Developer,1,0,0,,1,1,1,1,1,1,2,1,1,Objective-C,5,5,5,0,1,0,0,0,Objective-C Foundation
+234,Frontend Engineer,0,1,0,,1,0,1,0,1,1,1,0,1,Javascript,4,3,3,0,1,0,0,0,Objective-C Foundation
+235,,1,1,1,,1,0,1,1,1,1,0,1,0,Javascript,3,2,1,0,1,0,1,0,Objective-C Foundation
+236,Frontend Engineer,1,0,1,,1,1,1,1,1,1,1,1,1,Javascript,5,4,5,0,1,1,0,1,Appcelerator Titanium
+237,Frontend Engineer,0,0,1,,0,0,1,1,1,1,0,0,0,Javascript,4,4,1,0,1,0,0,0,
+238,,1,0,1,,0,0,1,1,1,1,0,1,0,Javascript,3,2,1,0,0,0,1,1,Sencha Touch / jQuery Mobile
+239,Frontend Engineer,1,0,0,,0,0,1,1,1,1,2,0,2,Javascript,5,4,3,1,0,0,0,0,PhoneGap / Apache Cordova
+240,Frontend Engineer,0,0,1,,1,0,1,1,1,0,2,0,2,Javascript,3,3,1,1,0,0,0,0,
+241,,1,1,1,,1,1,1,1,1,1,1,1,1,Javascript,5,5,4,0,1,1,1,0,Appcelerator Titanium
+242,,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,4,3,1,0,0,0,1,0,PhoneGap / Apache Cordova
+243,Frontend Engineer,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,4,4,0,0,0,1,1,
+244,Frontend Engineer,1,1,1,,0,0,1,1,1,1,0,1,1,Javascript,3,2,,0,0,0,1,0,Sencha Touch / jQuery Mobile
+245,Backend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,4,4,2,0,0,0,1,0,PhoneGap / Apache Cordova
+246,iOS Developer,1,0,1,,1,0,1,1,1,1,1,1,1,Objective-C,4,5,4,0,1,0,1,1,Objective-C Foundation
+248,Backend Engineer,0,0,1,,0,0,1,1,1,1,2,0,2,Javascript,5,5,1,1,0,0,0,0,
+249,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,4,1,0,0,0,1,1,
+250,Frontend Engineer,1,0,1,,1,0,1,1,1,1,1,0,2,Javascript,5,4,2,0,0,0,0,0,
+251,iOS Developer,1,0,0,,1,0,0,0,0,1,1,1,1,Javascript,4,5,4,0,1,0,0,0,Objective-C Foundation
+252,,1,0,1,,0,0,1,1,1,0,1,0,1,Javascript,4,5,3,1,0,0,0,0,
+254,,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,5,5,1,1,0,0,0,0,
+255,,1,0,1,,1,0,1,1,1,1,1,1,1,Javascript,4,5,3,0,1,0,1,0,Objective-C Foundation
+256,Backend Engineer,0,0,1,,0,0,1,1,1,0,1,1,0,Javascript,5,3,3,0,0,0,1,1,PhoneGap / Apache Cordova
+257,Backend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,5,5,1,1,0,0,0,0,
+258,Backend Engineer,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,4,4,2,0,0,0,1,0,PhoneGap / Apache Cordova
+259,Frontend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,4,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+261,Frontend Engineer,1,0,1,,0,1,1,1,1,1,1,1,1,Javascript,5,4,2,0,1,0,1,0,
+262,Backend Engineer,0,0,1,,1,0,1,0,1,0,0,0,1,Objective-C,3,2,4,0,1,0,0,0,Objective-C Foundation
+264,Backend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,4,4,2,0,1,0,1,0,Objective-C Foundation
+265,,1,0,1,,1,0,1,1,1,0,0,0,1,Javascript,4,4,3,0,1,0,0,0,
+266,iOS Developer,1,0,1,,1,1,1,1,1,1,1,1,1,Javascript,2,2,3,0,1,0,1,0,Objective-C Foundation
+267,,1,0,1,mobile + web + hardware,1,0,1,1,0,0,1,1,0,Javascript,4,5,5,0,1,0,0,0,Objective-C Foundation
+268,iOS Developer,1,0,1,,1,0,1,1,1,1,0,1,1,Javascript,4,3,3,0,0,1,1,1,Appcelerator Titanium
+269,Frontend Engineer,0,0,1,,0,0,1,1,1,1,2,0,2,Javascript,5,5,,0,0,0,1,1,PhoneGap / Apache Cordova
+270,Backend Engineer,0,0,1,,1,0,1,1,1,1,1,0,1,Javascript,5,5,3,0,1,0,1,1,PhoneGap / Apache Cordova
+271,,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,4,5,0,0,0,1,0,PhoneGap / Apache Cordova
+272,Backend Engineer,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,3,0,1,0,1,0,PhoneGap / Apache Cordova
+273,Backend Engineer,0,0,1,,0,0,0,1,0,0,2,0,2,Javascript,4,4,,1,0,0,0,0,
+274,iOS Developer,1,0,0,,0,0,0,1,0,1,2,1,1,Javascript,4,4,2,1,0,0,0,0,
+275,Frontend Engineer,1,0,1,,0,0,1,1,1,1,0,1,0,Javascript,1,2,2,0,0,0,1,1,Sencha Touch / jQuery Mobile
+276,,1,1,1,,0,0,1,1,1,0,1,1,1,Javascript,4,4,,0,0,0,1,0,PhoneGap / Apache Cordova
+277,Backend Engineer,0,0,1,,0,1,1,1,1,0,2,0,2,Javascript,5,3,3,0,1,0,0,0,Objective-C Foundation
+278,iOS Developer,0,0,1,,0,0,1,0,0,0,0,0,1,Javascript,3,2,2,0,0,0,0,0,Objective-C Foundation
+279,Frontend Engineer,1,0,1,,1,0,1,1,1,1,1,0,1,Javascript,5,5,5,0,1,0,1,0,Objective-C Foundation
+280,Backend Engineer,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,4,0,0,0,1,0,PhoneGap / Apache Cordova
+282,iOS Developer,0,1,0,,1,1,1,1,1,0,2,0,2,Javascript,4,4,3,0,1,0,0,0,
+283,iOS Developer,1,0,0,,1,0,0,1,0,1,0,1,0,Objective-C,3,3,4,0,1,0,1,0,Objective-C Foundation
+285,Backend Engineer,0,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,5,1,0,0,0,1,0,PhoneGap / Apache Cordova
+286,Backend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,4,3,1,0,0,0,1,0,PhoneGap / Apache Cordova
+287,Frontend Engineer,0,0,0,,1,1,1,1,1,0,2,1,2,Javascript,4,4,3,0,1,0,0,0,Objective-C Foundation
+288,Frontend Engineer,0,0,1,,0,0,1,1,1,1,0,0,1,Javascript,4,5,2,0,0,0,1,1,
+289,Backend Engineer,0,0,0,Server,0,0,0,0,0,0,0,0,1,Javascript,2,2,3,1,0,0,0,0,
+291,Frontend Engineer,1,0,1,,0,0,1,1,1,1,1,0,2,Javascript,4,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+292,,1,1,1,,0,0,1,1,1,0,2,1,1,Javascript,4,5,3,0,0,0,1,0,
+293,,1,0,1,Server,1,1,1,1,1,1,1,0,2,Javascript,4,4,3,0,1,0,1,0,Objective-C Foundation
+295,,0,0,1,,1,1,1,1,1,0,1,0,1,Javascript,3,3,2,0,1,0,0,0,Objective-C Foundation
+296,Frontend Engineer,0,0,1,,0,0,1,0,1,1,1,1,1,Javascript,4,3,1,1,0,0,0,0,
+298,Backend Engineer,0,0,1,,0,0,1,1,1,1,0,1,0,Javascript,4,3,1,0,1,1,1,1,PhoneGap / Apache Cordova
+299,iOS Developer,1,0,1,,1,0,1,1,1,1,0,1,0,Objective-C,4,4,5,0,1,0,1,1,Objective-C Foundation
+300,Frontend Engineer,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,4,4,2,0,0,0,1,0,PhoneGap / Apache Cordova
+301,Frontend Engineer,1,0,1,,0,0,1,0,1,1,0,0,2,Javascript,5,5,2,0,1,0,1,0,Objective-C Foundation
+303,,0,1,0,,0,0,1,0,1,0,2,1,1,Javascript,2,1,1,1,0,0,0,0,
+304,,0,0,1,,0,0,1,1,1,0,2,1,2,Javascript,5,5,2,0,0,0,1,1,PhoneGap / Apache Cordova
+305,Backend Engineer,0,0,1,,0,0,0,1,0,1,1,1,1,Javascript,4,3,1,0,0,0,1,0,PhoneGap / Apache Cordova
+306,Backend Engineer,1,0,1,,0,0,1,1,1,1,2,1,,Javascript,4,4,1,1,0,0,0,0,PhoneGap / Apache Cordova
+307,Frontend Engineer,1,1,1,,0,0,1,1,1,1,1,1,1,Javascript,4,4,2,0,0,1,1,1,
+310,iOS Developer,1,0,0,,1,0,1,0,1,0,2,1,2,Javascript,4,2,3,1,1,1,0,1,Objective-C Foundation
+311,Backend Engineer,1,1,1,,0,0,1,1,1,1,2,1,2,Javascript,4,4,2,0,0,0,0,1,Sencha Touch / jQuery Mobile
+313,Frontend Engineer,1,1,1,,0,0,1,1,1,1,1,1,0,Javascript,4,4,3,0,0,1,1,1,
+316,iOS Developer,1,0,1,,1,0,1,0,1,1,1,0,2,Objective-C,3,4,5,0,1,0,0,0,Objective-C Foundation
+317,Frontend Engineer,0,1,1,,0,0,1,1,1,0,2,0,2,Javascript,3,2,1,1,0,0,0,0,Objective-C Foundation
+319,Frontend Engineer,1,0,0,,0,0,1,1,1,1,1,1,1,Javascript,4,4,2,0,0,1,0,0,Appcelerator Titanium
+321,Backend Engineer,0,0,1,,1,0,1,1,1,0,2,0,2,Javascript,4,3,3,0,0,0,1,0,PhoneGap / Apache Cordova
+322,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,1,2,Javascript,4,4,3,0,0,0,1,0,PhoneGap / Apache Cordova
+323,iOS Developer,1,0,1,,1,0,1,1,1,1,0,0,0,Objective-C,3,3,5,0,1,0,0,0,Objective-C Foundation
+324,Backend Engineer,0,0,1,,0,0,1,1,1,1,0,1,0,Javascript,4,5,,0,0,0,1,0,
+326,,0,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,5,2,0,0,1,1,1,Sencha Touch / jQuery Mobile
+327,,1,0,1,,1,0,1,1,1,1,1,1,,Javascript,3,3,2,0,0,0,1,0,PhoneGap / Apache Cordova
+328,Backend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,3,4,1,0,0,0,0,1,Sencha Touch / jQuery Mobile
+329,OS X Developer,1,1,0,,0,1,0,0,0,0,2,0,2,Objective-C,4,3,4,0,1,0,0,0,Objective-C Foundation
+330,Frontend Engineer,1,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,5,4,0,0,0,1,0,PhoneGap / Apache Cordova
+333,Backend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,4,1,1,0,0,0,0,
+334,iOS Developer,1,0,1,,1,0,1,1,1,0,0,0,0,Objective-C,5,5,4,0,1,0,0,0,Objective-C Foundation
+337,Backend Engineer,1,1,1,,0,0,1,1,1,1,2,0,2,Javascript,3,2,3,0,1,0,0,0,
+343,,1,0,1,,1,0,1,1,1,1,0,1,0,Javascript,5,5,3,0,1,0,1,0,Objective-C Foundation
+344,Backend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,3,1,1,0,0,0,0,
+345,Backend Engineer,0,0,1,,0,0,0,0,1,1,0,1,0,Javascript,5,4,3,0,0,0,1,1,Objective-C Foundation
+346,Backend Engineer,0,1,0,,0,0,1,0,1,1,1,1,1,Javascript,3,3,1,1,0,0,0,0,PhoneGap / Apache Cordova
+347,Frontend Engineer,1,0,1,,1,0,1,1,1,0,2,0,1,Javascript,4,3,3,0,1,0,0,0,
+348,Frontend Engineer,1,1,1,,0,0,1,1,1,1,1,0,2,Javascript,5,5,3,0,0,0,1,0,PhoneGap / Apache Cordova
+350,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,1,1,Javascript,5,3,2,0,1,0,0,0,Objective-C Foundation
+351,Frontend Engineer,1,1,1,,0,0,1,1,1,1,0,1,1,Javascript,4,3,3,0,0,0,1,0,
+352,Backend Engineer,0,0,1,,0,0,1,0,0,1,1,0,2,Javascript,3,2,2,0,1,0,0,0,
+353,,1,0,1,,1,0,1,1,1,1,2,1,2,Javascript,5,5,4,0,1,0,1,1,PhoneGap / Apache Cordova
+354,Frontend Engineer,0,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,5,2,0,1,0,0,0,
+355,iOS Developer,1,0,1,,1,0,1,1,1,1,0,1,2,Javascript,3,3,2,0,1,1,0,0,Appcelerator Titanium
+356,Frontend Engineer,1,0,1,,0,0,1,1,1,1,2,1,2,Javascript,5,3,2,0,0,0,1,1,Sencha Touch / jQuery Mobile
+357,Frontend Engineer,0,1,0,,0,0,0,0,0,1,2,1,2,Javascript,2,1,1,1,0,0,0,0,
+359,iOS Developer,1,1,1,,1,1,1,1,1,1,1,1,1,Objective-C,5,3,5,0,1,1,0,1,Objective-C Foundation
+362,Frontend Engineer,0,0,1,,0,0,1,1,1,1,1,0,2,Javascript,4,3,1,1,0,0,0,0,
+365,Frontend Engineer,1,0,1,,0,0,1,1,1,1,2,1,1,Javascript,5,5,3,0,0,0,0,0,
+367,Frontend Engineer,1,0,1,,0,0,1,1,1,1,0,1,0,Javascript,4,4,1,1,0,0,1,0,
+368,Backend Engineer,0,0,1,,0,0,0,0,1,0,2,0,2,Javascript,3,2,4,1,0,0,0,0,Appcelerator Titanium
+370,Frontend Engineer,1,0,1,,1,0,1,1,1,0,0,1,0,Objective-C,5,5,5,0,1,0,0,0,Objective-C Foundation
+374,Backend Engineer,1,0,1,,0,0,1,0,1,1,1,1,2,Javascript,3,3,2,0,1,0,0,0,
+375,Frontend Engineer,1,0,1,,0,0,1,1,1,0,2,0,2,Javascript,4,3,1,0,0,0,1,0,
+376,Backend Engineer,1,0,1,,1,0,1,1,1,1,2,1,2,Javascript,5,4,2,0,0,0,1,1,PhoneGap / Apache Cordova
+378,Frontend Engineer,1,1,1,,0,0,1,1,1,1,1,1,1,Javascript,4,3,1,1,0,0,0,0,
